@@ -35,7 +35,7 @@
 
     <script>
         function redirectToLink() {
-            window.location.href = "https://ibb.co/VqVD1yf";
+            window.location.href = "https://ibb.co.com/VqVD1yf";
         }
 
         function moveButton() {
