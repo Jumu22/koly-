@@ -25,25 +25,17 @@
             padding: 10px 20px;
             font-size: 1em;
         }
-        img {
-            display: none;
-            margin-top: 20px;
-            width: 300px;
-            height: auto;
-        }
     </style>
 </head>
 <body>
     <div class="color-change">EI J KHALATO BON</div>
     <div class="color-change">I LOVE YOU</div>
-    <button onclick="showImage()">yes</button>
+    <button onclick="redirectToLink()">yes</button>
     <button id="noButton" onclick="moveButton()">no</button>
-    <img id="popupImage" src="https://jumu22.github.io/koly-/yourimage.jpg" alt="Popup Image">
 
     <script>
-        function showImage() {
-            var img = document.getElementById('popupImage');
-            img.style.display = 'block';
+        function redirectToLink() {
+            window.location.href = "https://ibb.co/VqVD1yf";
         }
 
         function moveButton() {
