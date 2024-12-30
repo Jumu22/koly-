@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EI J KHALATO BON</title>
+    <title>Ei j vabi asslamu alikum </title>
     <style>
         body {
             text-align: center;
@@ -28,7 +28,7 @@
     </style>
 </head>
 <body>
-    <div class="color-change">EI J KHALATO BON</div>
+    <div class="color-change">VABI ASSALAMUALAIKUM</div>
     <div class="color-change">I LOVE YOU</div>
     <button onclick="redirectToLink()">yes</button>
     <button id="noButton" onclick="moveButton()">no</button>
